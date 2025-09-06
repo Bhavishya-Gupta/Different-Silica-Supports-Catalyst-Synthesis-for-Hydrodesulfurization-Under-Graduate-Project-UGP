@@ -525,7 +525,7 @@ research_areas = {
 **Bhavishya Gupta** (Roll No: 220295)
 - **Department**: Chemical Engineering
 - **Institution**: Indian Institute of Technology (IIT)
-- **Project Duration**: Full academic year (Undergraduate Project)
+- **Project Duration**: 1 Semester (Undergraduate Project)
 - **Research Focus**: Catalysis, Materials Science, Process Engineering
 
 ### 👨‍🏫 Faculty Supervision
